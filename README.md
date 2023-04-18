@@ -3,8 +3,11 @@
 
 ### Sample output
 Enter your age: 30
+
 you are old enough to drive.
+
 Enter your age:15
+
 You are left with 3 years to drive
 ```
 Solution:
@@ -23,6 +26,7 @@ else
 
 ### Sample output
 Enter your age: 30
+
 You are 5 years older than me
 
 ```
@@ -46,7 +50,9 @@ else
 
 ### Sample output
 Enter a number: 2
+
 2 is an even number
+
 Enter a number: 9
 
 ```
