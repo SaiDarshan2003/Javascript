@@ -22,6 +22,10 @@ else
     console.log("You are left with",age,"years to drive")
 }
 ```
+
+![image](https://user-images.githubusercontent.com/94692595/232670930-b2aa31ab-fc12-4ab9-9eaa-cb90af5d4c6b.png)
+
+
 ## 2.Compare the values of myAge and yourAge using if … else. Based on the comparison and log the result to console stating who is older (me or you). Use prompt(“Enter your age:”) to get the age as input.
 
 ### Sample output
@@ -46,6 +50,9 @@ else
 }
 
 ```
+![image](https://user-images.githubusercontent.com/94692595/232671169-052cace0-61ee-4588-aa50-297ddd064b37.png)
+
+
 ## 3.Even numbers are divisible by 2 and the remainder is zero. How do you check, if a number is even or not using JavaScript?
 
 ### Sample output
@@ -67,3 +74,4 @@ else
     console.log(choice,"is an odd number.")
 }
 ```
+![image](https://user-images.githubusercontent.com/94692595/232671294-cd067120-d5e5-4786-b163-b10185bcda48.png)
